@@ -1,0 +1,6 @@
+__pycache__/
+postgres/
+static/
+venv/
+.git/
+env/
